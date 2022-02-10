@@ -2,15 +2,15 @@
     <div>
 <div class="d-flex  justify-content-center">
     
-    <div class="card text-light" style="width:300px;height:300px;border-radius:0px;border-width:0px;z-index:2; background-size:cover;background-color:black;" rows=10 cols=10>
+    <div class="card text-light" style="width:300px;height:300px;border-radius:0px;border-width:0px;z-index:2; background-size:cover;background-color:#000000;" rows=10 cols=10>
         
-        <b class="card row-12 col-12" style="height:300px;z-index:2;background-image:url(https://i.pinimg.com/originals/7f/89/01/7f890111955b756b3ba4148181f21ea7.png);background-size:cover;opacity:12%;"></b>
+        <b class="card row-12 col-12" style="height:300px;z-index:2;background-image:url(https://i.pinimg.com/originals/7f/89/01/7f890111955b756b3ba4148181f21ea7.png);background-size:cover;opacity:0.12;"></b>
         
        <!--you can change the pattern from checkered to a different pattern if you replace the link after the "img:url" above with the link to a different transparent pattern! You can also change the opacity of the pattern by changing the "opacity:12%" to a different percentage!-->
        
            
        
-        <p class="header" style="background-color:maroon;font-family:lucida console;border-radius:0px;border-width:0px;color:black;position:absolute;width:300px;z-index:3;opacity:100%;">
+        <p class="header" style="background-color:maroon;font-family:lucida console;border-radius:0px;border-width:0px;color:#000000;position:absolute;width:300px;z-index:3;opacity:100%;">
        
         <!--if you really want to change the tint of the background to a color other than black, you can change the "black" after color (above) to a different color or to a hex code!-->
             
