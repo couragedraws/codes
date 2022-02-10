@@ -1,0 +1,57 @@
+<div>
+    <div>
+<div class="d-flex  justify-content-center">
+    
+    <div class="card text-light" style="width:300px;height:300px;border-radius:0px;border-width:0px;z-index:2; background-size:cover;background-color:black;" rows=10 cols=10>
+        
+        <b class="card row-12 col-12" style="height:300px;z-index:2;background-image:url(https://i.pinimg.com/originals/7f/89/01/7f890111955b756b3ba4148181f21ea7.png);background-size:cover;opacity:12%;"></b>
+        
+       <!--you can change the pattern from checkered to a different pattern if you replace the link after the "img:url" above with the link to a different transparent pattern! You can also change the opacity of the pattern by changing the "opacity:12%" to a different percentage!-->
+       
+           
+       
+        <p class="header" style="background-color:maroon;font-family:lucida console;border-radius:0px;border-width:0px;color:black;position:absolute;width:300px;z-index:3;opacity:100%;">
+       
+        <!--if you really want to change the tint of the background to a color other than black, you can change the "black" after color (above) to a different color or to a hex code!-->
+            
+             &nbsp; 
+           
+           
+           <b style="float:right;">
+               program.exe <!--you can replace this with your own "program name"-->
+            <i class="fa-solid fa-window-maximize">&nbsp;</i>
+           
+            <i class="fa-solid fa-minus">&nbsp;</i>
+         
+            <i class="fa-solid fa-rectangle-xmark">&nbsp; &nbsp;</i>
+            </b>
+           
+       </p>
+    
+    
+    <div class="col card" style="z-index:3;color:silver;position:absolute;text-align:right;float-right;font-family:lucida console;font-size:20px;height:0px;line-height:20px;"><p></p><p></p>name<p></p>
+    <b class="col card" style="height:90px;z-index:3;float:right;font-size:10px;background-color:maroon;color:silver;">age - pronouns</b>
+    <b class="wrapper" style="font-size:10px;margin-left:auto;margin-top:auto;margin-bottom:auto;line-height:10px;width:130px;text-align:right;">
+        
+    Hai! insert some text here X3!! Write a short summary lolz!!! or a longer one if u want! la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla alalalalala shdlkfjsdlfksjdflkj sdjflksj hfwoei halkasdjlf hewifwj bla bla la la ksdjflksdjf lol olololol hadklfjsdlfkjwjflkwj hwieohfwi klsdjfkdsl iejiejri ! wjhfij</b>
+    
+    </div>
+    <div class="col-13" style="z-index:3;float:left;position:absolute;margin-top:15px"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/44647149_dwgUdz9BxpbKMj4.png" style="height:150px;width:150px;z-index:4;opacity:100%;"></div>
+    
+     <!--PAGEDOLL(ABOVE): DELETE THE LINK AFTER "img src" AND REPLACE IT WITH THE LINK TO YOUR OWN IMAGE-->
+     
+    <div class="col card" style="z-index:2;color:silver;position:absolute;text-align:left;float-left;font-family:lucida console;font-size:9px;height:0px;line-height:20px;border-width:0px;"><hr><hr><hr><hr><hr><div wrapper style=";margin-right:auto;margin-top:auto;margin-bottom:-20px;width:100px;line-height:12px;float:left;border-width:0px;">omg look its me!!! haiiiii lolll X3<p></p><p></p></div><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/45328923_UakvsScaaLBQvAH.png" style="width:100px;margin-bottom:auto;margin-top:5px;margin-right:auto;border-width:0px;"><p></p>
+    </div>
+    
+    <footer>
+        <p class="card " style="background-color:maroon;font-family:lucida console;border-radius:0px;border-width:0px;color:black;position:absolute;width:300px;z-index:2;">&nbsp;hi put a quote here if you want!!
+        <hr><a class="card" style="font-size:10px;z-index:1;width:300px;margin:Auto;border-width:0px;" href="https://toyhou.se/couragedraws">code credit: couragedraws</a>
+        </footer>
+        
+            
+</div>
+</div>
+
+
+</div>
+</div>
